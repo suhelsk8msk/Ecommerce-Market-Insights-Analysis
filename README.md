@@ -1,5 +1,23 @@
 # 📊 Detailed Analysis – Ecommerce Market Insights Analysis
 
+## Project Visualizations
+
+### Product Category Distribution
+
+![Category Distribution](charts/category_distribution.png)
+
+### Customer Age Group Analysis
+
+![Customer Age Group](charts/customer_age_group.png)
+
+### Shipping Method Analysis
+
+![Shipping Method](charts/shipping_method.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](charts/correlation_heatmap.png)
+
 ## ▶️  Project Overview
 
 * Conducted an end-to-end exploratory data analysis (EDA) on an e-commerce dataset containing approximately 1,000 records.
