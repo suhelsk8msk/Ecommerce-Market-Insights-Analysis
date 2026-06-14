@@ -125,7 +125,8 @@ This level of documentation makes the project look much more professional and re
 ### 1. Product Category Distribution
 
 The dataset contains products from five major categories:
-![Category Distribution](charts/category_distribution.png)
+![Product Category Distribution](charts/1. Product Category Distribution.png)
+
 
 ## **Insight**
 
