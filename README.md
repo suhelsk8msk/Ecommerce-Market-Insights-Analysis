@@ -124,8 +124,11 @@ This level of documentation makes the project look much more professional and re
 
 ### 1. Product Category Distribution
 
+<img width="571" height="514" alt="1  Product Category Distribution" src="https://github.com/user-attachments/assets/f57d9b28-f506-4477-a211-b5af0c57acf1" />
+
+
 The dataset contains products from five major categories:
-![Product Category Distribution](charts/1. Product Category Distribution.png)
+
 
 
 ## **Insight**
