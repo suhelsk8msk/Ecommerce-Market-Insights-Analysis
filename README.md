@@ -144,6 +144,7 @@ A balanced product portfolio reduces dependency on a single category and support
 ---
 
 ### 2. Average Product Price Analysis
+<img width="580" height="514" alt="2 Average Product Price by Category" src="https://github.com/user-attachments/assets/8879e19f-5eab-4631-acfd-7dd4e75caf1a" />
 
 ## **Insight**
 
@@ -172,6 +173,7 @@ Apparel may rely more heavily on promotional strategies to drive customer engage
 ---
 
 ### 4. Customer Age Group Analysis
+<img width="571" height="432" alt="3 Customer Age Group Analysis" src="https://github.com/user-attachments/assets/ad989bfc-1b37-4179-b094-d89e2ad13bd9" />
 
 ## **Insight**
 
@@ -186,6 +188,7 @@ Marketing campaigns should prioritize mature customer segments while exploring s
 ---
 
 ### 5. Customer Gender Analysis
+<img width="409" height="389" alt="4  Customer Gender Analysis" src="https://github.com/user-attachments/assets/e8094e38-3186-478e-a08a-08e0e858ec6e" />
 
 ## **Insight**
 
@@ -199,6 +202,7 @@ The business appeals to a diverse customer base, supporting inclusive marketing 
 ---
 
 ### 6. Customer Location Analysis
+<img width="713" height="432" alt="5  Customer Location Analysis" src="https://github.com/user-attachments/assets/7f058bf4-d8df-4665-9412-8a7013ea8992" />
 
 Top customer locations include:
 
@@ -265,6 +269,7 @@ Seasonal inventory planning and promotional campaigns can help maximize sales op
 ---
 
 ### 10. Product Popularity Analysis
+<img width="543" height="513" alt="6 Top 10 most popular products" src="https://github.com/user-attachments/assets/f0b7f045-519b-4d32-a403-c2f4879fb186" />
 
 Top Popular Products:
 
@@ -304,7 +309,11 @@ High-performing products should receive priority in inventory management, promot
 Maintaining adequate inventory for popular categories reduces stockout risks and supports customer satisfaction.
 
 ---
+### 11. Correlation Analysis
+<img width="613" height="517" alt="7 Correlation Analysis" src="https://github.com/user-attachments/assets/9e4bb3b7-6726-4375-9544-852b9b3ec7d3" />
 
+
+----
 ## Key Business Findings
 
 * Books represent the largest product category in the marketplace.
