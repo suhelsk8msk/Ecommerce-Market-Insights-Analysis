@@ -1,6 +1,6 @@
 # 📊 Detailed Analysis – Ecommerce Market Insights Analysis
 
-## 1. Project Overview
+## ▶️ 1. Project Overview
 
 * Conducted an end-to-end exploratory data analysis (EDA) on an e-commerce dataset containing approximately 1,000 records.
 * Analyzed product-related, customer-related, shipping-related, and market-related variables.
@@ -9,7 +9,7 @@
 
 ---
 
-## 2. Data Understanding
+## ▶️ 2. Data Understanding
 
 ### Dataset Characteristics
 
@@ -26,7 +26,7 @@
   * Footwear
   * Home Appliances
 
-### Key Variables
+### 🔑 Key Variables
 
 * Product Name
 * Category
@@ -45,7 +45,7 @@
 
 ---
 
-## 3. Data Cleaning & Preparation
+## ▶️ 3. Data Cleaning & Preparation
 
 ### Data Quality Checks
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 4. Product Category Analysis
+## ▶️ 4. **Product Category Analysis**
 
 ### Objective
 
@@ -77,14 +77,14 @@ To identify which product categories dominate the marketplace.
 * Discount distribution across categories.
 * Category popularity comparison.
 
-### Insights
+### 💠**Insights**
 
 * Certain categories contain a significantly larger number of products.
 * Product pricing differs substantially between categories.
 * Some categories rely heavily on discounts to attract customers.
 * Product popularity varies across categories, indicating different demand levels.
 
-### Business Impact
+### 💠Business Impact
 
 * Helps inventory teams prioritize product categories.
 * Supports pricing and promotional strategies.
@@ -92,7 +92,7 @@ To identify which product categories dominate the marketplace.
 
 ---
 
-## 5. Pricing Analysis
+## ▶️ 5. **Pricing Analysis**
 
 ### Objective
 
@@ -105,7 +105,7 @@ To understand pricing patterns and their relationship with customer interest.
 * Price variation analysis.
 * Price versus popularity assessment.
 
-### Insights
+### 💠 **Insights**
 
 * Product prices vary widely across categories.
 * Premium categories command higher average prices.
@@ -120,7 +120,7 @@ To understand pricing patterns and their relationship with customer interest.
 
 ---
 
-## 6. Discount Analysis
+## ▶️ 6. **Discount Analysis**
 
 ### Objective
 
@@ -132,7 +132,7 @@ To evaluate discounting strategies across product categories.
 * Discount distribution.
 * Relationship between discount and popularity.
 
-### Insights
+### 💠 **Insights**
 
 * Some categories consistently offer larger discounts.
 * Higher discounts may contribute to increased customer interest.
@@ -145,7 +145,7 @@ To evaluate discounting strategies across product categories.
 
 ---
 
-## 7. Customer Demographic Analysis
+## ▶️ 7. **Customer Demographic Analysis**
 
 ### Objective
 
@@ -157,7 +157,7 @@ To understand customer characteristics and preferences.
 * Gender distribution.
 * Location-wise customer distribution.
 
-### Insights
+### 💠 **Insights**
 
 * Certain age groups dominate the customer base.
 * Customer participation varies by gender.
@@ -171,7 +171,7 @@ To understand customer characteristics and preferences.
 
 ---
 
-## 8. Customer Location Analysis
+## ▶️ 8. **Customer Location Analysis**
 
 ### Objective
 
@@ -183,7 +183,7 @@ To identify regions with the highest customer engagement.
 * Popular product categories by location.
 * Demand distribution analysis.
 
-### Insights
+### 💠 **Insights**
 
 * Some regions contribute significantly more customers than others.
 * Product preferences vary by location.
@@ -197,7 +197,7 @@ To identify regions with the highest customer engagement.
 
 ---
 
-## 9. Shipping Analysis
+## ▶️ 9. **Shipping Analysis**
 
 ### Objective
 
@@ -209,7 +209,7 @@ To understand shipping preferences and logistics performance.
 * Shipping cost analysis.
 * Preferred delivery options.
 
-### Insights
+### 💠 **Insights**
 
 * Customers show clear preferences for specific shipping methods.
 * Shipping costs vary across delivery options.
@@ -223,7 +223,7 @@ To understand shipping preferences and logistics performance.
 
 ---
 
-## 10. Return Rate Analysis
+## ▶️ 10. **Return Rate Analysis**
 
 ### Objective
 
@@ -234,7 +234,7 @@ To identify categories with higher product returns.
 * Average return rate by category.
 * Return rate comparison across products.
 
-### Insights
+### 💠 **Insights**
 
 * Certain categories experience higher return rates.
 * Product quality, expectations, or fit may influence returns.
@@ -248,7 +248,7 @@ To identify categories with higher product returns.
 
 ---
 
-## 11. Seasonality Analysis
+## ▶️ 11. **Seasonality Analysis**
 
 ### Objective
 
@@ -259,7 +259,7 @@ To determine whether seasonality impacts product popularity.
 * Popularity comparison by seasonality.
 * Seasonal demand assessment.
 
-### Insights
+### 💠 **Insights**
 
 * Seasonal products tend to experience demand fluctuations.
 * Certain seasons drive significantly higher popularity scores.
@@ -273,7 +273,7 @@ To determine whether seasonality impacts product popularity.
 
 ---
 
-## 12. Product Popularity Analysis
+## ▶️ 12. **Product Popularity Analysis**
 
 ### Objective
 
@@ -284,7 +284,7 @@ To identify the most popular products within the marketplace.
 * Top products by popularity index.
 * Popularity distribution analysis.
 
-### Insights
+### 💠 **Insights**
 
 * A small number of products drive significant customer interest.
 * Popularity varies across categories.
@@ -298,7 +298,7 @@ To identify the most popular products within the marketplace.
 
 ---
 
-## 13. Correlation Analysis
+## ▶️ 13. **Correlation Analysis**
 
 ### Objective
 
@@ -319,7 +319,7 @@ To understand relationships among numerical variables.
 * Correlation Matrix
 * Heatmap Visualization
 
-### Insights
+### 💠 **Insights**
 
 * Identified positive and negative relationships among variables.
 * Examined whether pricing influences popularity.
@@ -333,7 +333,7 @@ To understand relationships among numerical variables.
 
 ---
 
-## 14. Key Business Findings
+## ▶️ **14. Key Business Findings**
 
 1. Product categories exhibit different pricing and popularity patterns.
 2. Customer demographics reveal distinct purchasing segments.
@@ -346,7 +346,7 @@ To understand relationships among numerical variables.
 
 ---
 
-## 15. Recommendations
+## ▶️ **15. Recommendations**
 
 * Focus marketing efforts on high-popularity products.
 * Optimize inventory for top-performing categories.
