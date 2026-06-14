@@ -314,7 +314,7 @@ Maintaining adequate inventory for popular categories reduces stockout risks and
 
 
 ----
-## Key Business Findings
+## 🔑 Key Business Findings
 
 * Books represent the largest product category in the marketplace.
 * Footwear products command the highest average prices.
