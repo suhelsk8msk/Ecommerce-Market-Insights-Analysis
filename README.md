@@ -66,7 +66,7 @@ The dataset contains products from five major categories:
 
 ## **Insight**
 
-* **Books** represent the **largest product category **in the dataset.
+* **Books** represent the **largest product category** in the dataset.
 * **Apparel** contains the **fewest products**.
 * Product distribution is relatively balanced across all categories, indicating a diversified marketplace.
 
