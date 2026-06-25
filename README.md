@@ -263,7 +263,7 @@ Maintaining adequate inventory for popular categories reduces stockout risks and
 
 ---
 
-## Business Recommendations
+## Business Recommendations 👇
 
 ### Product Strategy
 
